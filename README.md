@@ -1,6 +1,6 @@
 ### Hi there, this is me, Sebastian  🇦🇹 👋
 
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/364927734/1398369527/1500x500)][1]
+[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/364927734/1398369527/1500x500)
 
 Hi, I'm Sebastian — founder of [+innovations GmbH](https://www.plus-innovations.com/) and besides consulting activities I mainly work on innovative projects for non-profit organizations.
 
