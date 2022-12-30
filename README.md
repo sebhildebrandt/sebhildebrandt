@@ -8,9 +8,8 @@ Hi, my name is Sebastian — founder of [+innovations GmbH](https://www.plus-inn
 --------------
 
 *   🌍  I'm based in Vienna - Austria 🇦🇹
-*   🚀  I'm currently working on [systeminformation](http://systeminformation.io)
-*   🤝  I'm open to collaborating on \[COLLAB\]
-*   ⚡  \[ANYTING\_ELSE\]
+*   🖥️  I'm currently working on [systeminformation](http://systeminformation.io)
+*   🚀  And starting up a new fundraising platform [campgn](http://campgn.com)
 
 <a href="https://www.github.com/sebhildebrandt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sebhildebrandt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitter.com/plusinnovations" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/plusinnovations?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -45,9 +44,8 @@ As a full-stack developer I enjoy working on interesting and innovative projects
 	<a href="https://www.twitter.com/plusinnovations" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+### Github Stats
 
-<b>My GitHub Stats</b>
 <a href="http://www.github.com/sebhildebrandt"><img src="https://github-readme-stats.vercel.app/api?username=sebhildebrandt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sebhildebrandt's GitHub stats" /></a>
 
 ### Support Me
