@@ -37,11 +37,11 @@ As a full-stack developer I enjoy working on interesting and innovative projects
 ### Socials
 
 <p align="left">
-	<a href="https://www.dev.to/sebhildebrandt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-	<a href="https://www.github.com/sebhildebrandt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 	<a href="https://www.linkedin.com/in/shildebrandt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 	<a href="https://www.stackoverflow.com/users/6202655/sebastian-hildebrandt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 	<a href="https://www.twitter.com/plusinnovations" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+	<a href="https://www.github.com/sebhildebrandt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+	<a href="https://www.dev.to/sebhildebrandt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 </p>
 
 ### Github Stats
