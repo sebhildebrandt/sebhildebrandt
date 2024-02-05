@@ -51,3 +51,9 @@ As a full-stack developer I enjoy working on interesting and innovative projects
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/systeminfo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+#### JetBrain
+
+Thank you for JetBrains support (providing software)
+JetBrain Request ID=01022024/13609235 ... 
+
