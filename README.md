@@ -54,6 +54,6 @@ As a full-stack developer I enjoy working on interesting and innovative projects
 
 #### JetBrain
 
-Thank you for JetBrains support (providing software)
+@JetBrain: Thank you for you support (providing software)
 JetBrain Request ID=01022024/13609235 ... 
 
