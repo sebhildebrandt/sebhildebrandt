@@ -46,7 +46,11 @@ As a full-stack developer I enjoy working on interesting and innovative projects
 
 ### Github Stats
 
-<a href="http://www.github.com/sebhildebrandt"><img src="https://github-readme-stats.vercel.app/api?username=sebhildebrandt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sebhildebrandt's GitHub stats" /></a>
+<div>
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api?username=sebhildebrandt&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 220px;" align="center">
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api/top-langs/?username=sebhildebrandt&show_icons=true&hide_border=true&langs_count=10&layout=compact" alt="" style="height: 220px;" align="center">
+</div>
+
 
 ### Support Me
 
