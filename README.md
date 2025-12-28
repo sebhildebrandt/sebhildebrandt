@@ -47,8 +47,8 @@ As a full-stack developer I enjoy working on interesting and innovative projects
 ### Github Stats
 
 <div>
-  <img src="https://github-readme-stats-sand-two-32.vercel.app/api?username=sebhildebrandt&show_icons=true&hide_border=true&count_private=true" alt="" style="height: 220px;" align="center">
-  <img src="https://github-readme-stats-sand-two-32.vercel.app/api/top-langs/?username=sebhildebrandt&show_icons=true&hide_border=true&langs_count=10&layout=compact" alt="" style="height: 220px;" align="center">
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api?username=sebhildebrandt&show_icons=true&hide_border=false&count_private=true" alt="" style="height: 220px;" align="center">
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api/top-langs/?username=sebhildebrandt&show_icons=true&hide_border=false&langs_count=10&layout=compact" alt="" style="height: 220px;" align="center">
 </div>
 
 
