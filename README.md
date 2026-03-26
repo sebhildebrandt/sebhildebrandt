@@ -9,7 +9,6 @@ Hi, my name is Sebastian — founder of [+innovations GmbH](https://www.plus-inn
 
 *   🌍  I'm based in Vienna - Austria 🇦🇹
 *   🖥️  I'm currently working on [systeminformation](http://systeminformation.io)
-*   🚀  And starting up a new fundraising platform [campgn](http://campgn.com)
 
 <a href="https://www.github.com/sebhildebrandt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/sebhildebrandt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.twitter.com/plusinnovations" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/plusinnovations?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
